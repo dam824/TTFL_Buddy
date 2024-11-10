@@ -13,5 +13,9 @@ Le bot TTFL qui évite la carotte  🥕.
    git clone https://github.com/ton-utilisateur/ttfl-bot.git
    cd ttfl-bot
 
-2. **Lancer le bot** :
+
+2. **Installer les packets** :
+   npm i
+
+3. **Lancer le bot** :
    node bot.js
